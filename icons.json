@@ -1,13 +1,12 @@
 {
     "icons": [
       {
-        "name": "Custom icons",
-        "sourceUrl": [
-          "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/product.png", 
+        "name": "Custom icon uploads",
+        "source": [
+          "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/product.png",
           "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/online_learning.png"
         ],
-        "extension": "png",
-        "count": 2
+        "extension": "png"
       }
     ]
   }
