@@ -4,7 +4,8 @@
         "name": "Custom icon uploads",
         "source": [
           "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/product.png",
-          "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/online_learning.png"
+          "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/online_learning.png",
+          "https://raw.githubusercontent.com/erhandsilva/notion-enhancer-icons/main/CI/recipe-book.png"
         ],
         "extension": "png"
       }
