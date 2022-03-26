@@ -1,10 +1,10 @@
 {
     "icons": [
       {
-        "name": "Custom uploads",
-        "source": "Custom",
+        "name": "Custom icons",
+        "source": "CI",
         "extension": "png",
-        "count": "1"
+        "count": "2"
       }
     ]
   }
