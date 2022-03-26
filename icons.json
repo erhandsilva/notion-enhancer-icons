@@ -3,7 +3,8 @@
       {
         "name": "Custom uploads",
         "source": "Custom",
-        "extension": "png"
+        "extension": "png",
+        "count": "1"
       }
     ]
   }
