@@ -2,6 +2,7 @@
     "icons": [
       {
         "name": "Custom icons",
+        "sourceUrl": "https://github.com/erhandsilva/notion-enhancer-icons/tree/main/CI",
         "source": "CI",
         "extension": "png",
         "count": 2
