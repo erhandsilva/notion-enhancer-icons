@@ -2,8 +2,10 @@
     "icons": [
       {
         "name": "Custom icons",
-        "sourceUrl": ["https://github.com/erhandsilva/notion-enhancer-icons/blob/main/CI/CI_0.png", "https://github.com/erhandsilva/notion-enhancer-icons/blob/main/CI/CI_1.png"],
-        "source": ["physical-product", "online-learning"],
+        "sourceUrl": [
+          "https://github.com/erhandsilva/notion-enhancer-icons/blob/main/CI/product.png", 
+          "https://github.com/erhandsilva/notion-enhancer-icons/blob/main/CI/online_learning.png"
+        ],
         "extension": "png",
         "count": 2
       }
